@@ -1,6 +1,6 @@
 **Turtle Browser**
 =====
-A lightweight & highly optimized browser based on Electron.
+A lightweight & highly bloated browser based on Electron.
 
 Collapsing navbar
 -------
